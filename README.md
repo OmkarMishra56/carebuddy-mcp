@@ -54,7 +54,7 @@ Everything lives in one readable file, [`server.mjs`](server.mjs).
 **Requirements:** Node.js 18 or newer.
  
 ```bash
-git clone https://github.com/YOUR_USERNAME/carebuddy-mcp.git
+git clone https://github.com/OmkarMishra56/carebuddy-mcp
 cd carebuddy-mcp
 npm install
 npm start
