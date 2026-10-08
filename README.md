@@ -119,17 +119,8 @@ This is a hackathon demo. It has no authentication, stores data in memory, and h
 - **Mini challenge:** Open Source (MIT licensed)
 - **Code that uses the track technology:** `server.mjs` imports `McpServer` and `StreamableHTTPServerTransport` and serves them at `/mcp`.
 - **New or existing project:** Built entirely during the submission window.
-### Demo video outline (under 3 minutes)
- 
-| Time | Show |
-|---|---|
-| 0:00-0:15 | The problem: "My mum lives far away. Did she take her pills?" |
-| 0:15-0:45 | The repo, `npm start`, and the four tools in the code |
-| 0:45-2:00 | MCP Inspector: list meds, mark one taken, log a low mood, run the summary with its flags |
-| 2:00-2:30 | The code: tool registration and the stateless Streamable HTTP transport |
-| 2:30-2:50 | Roadmap and why voice matters for caregivers |
- 
-## License
+
+ ## License
  
 MIT. See [LICENSE](LICENSE).
  
